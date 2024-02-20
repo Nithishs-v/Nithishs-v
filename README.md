@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React js**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning UI/UX
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
