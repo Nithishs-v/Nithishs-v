@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React js**
 
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m currently learning TypeScript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
